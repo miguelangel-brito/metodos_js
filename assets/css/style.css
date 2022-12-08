@@ -1,0 +1,42 @@
+.card {
+    margin: 10px;
+    width: 90%;
+    border: 1px solid rgb(247, 242, 242);
+    background-color: rgb(164, 166, 172);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+} 
+
+input{
+    width: 70%;
+    
+}
+
+#btnAgregar{
+    border-radius: 1px;
+    color: white;
+    background: rgb(2, 170, 72);
+}
+
+li{
+    margin: 0px;
+    list-style: none;
+    width: auto;
+    
+}
+ul{
+    flex-direction: column;
+    width: auto;
+    display: flex;
+}
+.check{
+    margin: 3px;
+    width: 10px;
+}
+
+.btnDelete{
+    background-color: unset;
+    margin: 0px;
+}
+.container{
+    font-size:medium;
+}
